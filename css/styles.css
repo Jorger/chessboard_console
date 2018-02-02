@@ -1,0 +1,18 @@
+body {
+    margin: 10px;
+    font-size: 1em;   
+}
+
+h1 {
+    text-align: center;
+}
+
+pre {
+    font-size: 1.3em;
+}
+
+.description {
+    font-size: 2em;
+    padding: 10px;
+    margin: 10px;
+}
